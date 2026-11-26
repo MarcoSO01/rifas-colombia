@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+.env
+.env.local
+*.tsbuildinfo
+.vercel
+
+# Bot de WhatsApp
+bot/node_modules
+bot/.env
+bot/.sesion-whatsapp
+bot/.wwebjs_cache
